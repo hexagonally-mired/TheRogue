@@ -1,0 +1,22 @@
+baseURL = "guthib.com"
+languageCode = "en-us"
+title = "The Rogue"
+theme = "Ananke"
+description = "The Seattle Monthly By People, For People"
+
+
+
+[pagination]
+pagerSize = 10
+
+[markup.highlight]
+noClasses = false
+style = "monokai"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+showReadingTime = true
+disableDarkModeToggle = false

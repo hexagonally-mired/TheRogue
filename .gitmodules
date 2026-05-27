@@ -1,0 +1,3 @@
+[submodule "TheRogue/themes/TheRogue/TheRogue/themes/Ananke"]
+	path = TheRogue/themes/TheRogue/TheRogue/themes/Ananke
+	url = https://github.com/gohugo-ananke/ananke.git
